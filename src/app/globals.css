@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Grandstander:wght@200;400;900&family=Kanit:wght@100;400;700;900&family=Montserrat:wght@200;400;900&family=Nova+Square&family=Permanent+Marker&family=Rock+Salt&family=Rubik+Bubbles&family=Source+Sans+3:wght@400;900&family=Zeyada&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 152, 196, 85;
+  --background-start-rgb: 152, 196, 85;
+  --background-end-rgb: 152, 196, 85;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 255, 255, 255;
+    --background-end-rgb: 255, 255, 255;
+  }
+}
+
+body {
+  min-width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
