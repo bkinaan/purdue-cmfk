@@ -22,7 +22,10 @@ const config: Config = {
       },
       colors: {
         'custom-green': '#8ED081',
-        'custom-gold': '#E1BD63',
+        // 'custom-green': '#000000',
+        'custom-gold': '#cd9e39',
+        'custom-light-orange': '#faf0dc'
+
       },
     },
     variants: {
