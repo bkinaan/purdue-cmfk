@@ -21,6 +21,12 @@ export default function Navigation() {
           link="https://secure.qgiv.com/event/collegementorspurdue/"
         />
       </div>
+      <div className="ml-4">
+        <Navlink
+          title="Apply"
+          link="https://members.collegementors.org/application"
+        />
+      </div>
     </div>
   );
 }
