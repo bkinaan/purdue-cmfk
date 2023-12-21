@@ -5,7 +5,7 @@ export default function About() {
         About the Program
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 justify-center">
-        <div className="text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
+        <div className="bg-white text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
           <div className="text-2xl md:text-6xl pb-8">
             Empowering Children Through Mentoring
           </div>
@@ -23,7 +23,7 @@ export default function About() {
           src="mentor_leading.png"
           alt="man and girl"
         />
-        <div className="text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
+        <div className="bg-white text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
           <div className="text-2xl md:text-6xl pb-8">
             A Personalized Approach to Engagement
           </div>
@@ -40,7 +40,7 @@ export default function About() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 justify-center">
-        <div className="text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
+        <div className="bg-white text-black font-montserrat text-center md:text-right p-8 text-sm md:text-xl shadow-xl shadow-custom-green m-16 rounded-xl">
           <div className="text-2xl md:text-4xl pb-8">
             Developing Future Leaders
           </div>
