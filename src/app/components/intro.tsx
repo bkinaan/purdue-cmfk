@@ -13,7 +13,7 @@ export default function Intro() {
         </div>
         <div className="grid grid-flow-col columns-3 gap-24 mt-16 py-4 justify-center border-0 rounded-full">
           <Quicklink
-            title="Make a Difference"
+            title="Make a Difference!"
             link="https://members.collegementors.org/application"
           />
           {/* <Quicklink title="Apply Now!" link="https://members.collegementors.org/application"/>
