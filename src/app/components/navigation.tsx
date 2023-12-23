@@ -2,7 +2,7 @@ import Navlink from "./navlink";
 
 export default function Navigation() {
   return (
-    <div className="border p-4 flex justify-end font-montserrat bg-white text-black rounded-full m-8 shadow-lg shadow-custom-green">
+    <div className="border p-4 flex justify-end font-montserrat bg-white text-black rounded-full m-8 shadow-lg shadow-gray-500">
       <div className="mr-auto text-xs sm:text-xl">
         <span className="text-custom-gold">
           <a href="">Purdue</a>
