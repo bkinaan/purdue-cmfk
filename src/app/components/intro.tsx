@@ -14,17 +14,18 @@ export default function Intro() {
             href="https://members.collegementors.org/application"
             className="relative inline-block text-4xl group"
           >
-            <button className="bg-white font-normal border-custom-gold rounded-full p-4 font-montserrat shadow-xl shadow-custom-gold hover:bg-custom-gold hover:translate-y-1 ease-in-out duration-200">
+            <button className="bg-white font-normal border-custom-gold rounded-full p-4 font-montserrat shadow-xl shadow-custom-gold hover:bg-custom-gold hover:translate-y-1 ease-in-out duration-200 mb-16">
               Make a Difference!
             </button>
           </a>
           {/* <Quicklink title="Apply Now!" link="https://members.collegementors.org/application"/>
                     <Quicklink title="Donate" link="https://secure.qgiv.com/event/collegementorspurdue/"/> */}
         </div>
-        <div>
-          <a href="#about" className="text-white">
-            Or learn more below...
-          </a>
+        <div className="text-black">
+          {/* <a href="#about" className="text-black animate-bounce ease-in-out text-5xl">
+            ↓
+          </a> */}
+          <div className="animate-bounce ease-in-out text-5xl">↓</div>
         </div>
       </div>
     </div>
