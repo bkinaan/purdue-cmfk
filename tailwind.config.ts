@@ -25,6 +25,7 @@ const config: Config = {
         'cmfk-green': '#98c455',
         'cmfk-purple': '#623a90',
         'cmfk-blue': '#70bfca',
+        'custom-shadow': '#cd9e39',
         // 'custom-green': '#000000',
         'custom-gold': '#cd9e39',
         'custom-light-orange': '#faf0dc'

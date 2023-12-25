@@ -3,7 +3,7 @@ import About_Section from "./about_section";
 export default function About() {
   return (
     <div>
-      <div className=" font-montserrat text-white font-bold text-center text-5xl md:text-8xl py-36">
+      <div className=" font-montserrat text-black text-center text-5xl md:text-8xl py-36">
         About the Program
       </div>
       <About_Section

@@ -2,9 +2,9 @@ export default function Intro() {
   return (
     <div>
       <div className="flex flex-col text-center text-black pt-32 md:pt-48">
-        <div className="text-white font-montserrat font-bold text-5xl sm:text-7xl md:text-8xl lg:text-8xl">
+        <div className="text-black font-montserrat font-bold text-5xl sm:text-7xl md:text-8xl lg:text-8xl">
           <div className="pt-8 md:pt-0 pb-8">Mentoring</div>
-          <div className="font-rock-salt text-5xl sm:text-7xl md:text-8xl lg:text-9xl pb-8">
+          <div className="font-rock-salt text-custom-gold text-5xl sm:text-7xl md:text-8xl lg:text-9xl pb-8">
             Transforms
           </div>
           <div>Lives</div>
@@ -14,7 +14,7 @@ export default function Intro() {
             href="https://members.collegementors.org/application"
             className="relative inline-block text-4xl group"
           >
-            <button className="bg-white font-normal border-custom-green rounded-full p-4 font-montserrat shadow-lg shadow-gray-500 hover:bg-custom-green hover:translate-y-1 ease-in-out duration-200">
+            <button className="bg-white font-normal border-custom-gold rounded-full p-4 font-montserrat shadow-xl shadow-custom-gold hover:bg-custom-gold hover:translate-y-1 ease-in-out duration-200">
               Make a Difference!
             </button>
           </a>
